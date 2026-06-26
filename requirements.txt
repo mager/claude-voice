@@ -1,2 +1,3 @@
 anthropic
 elevenlabs
+python-dotenv
